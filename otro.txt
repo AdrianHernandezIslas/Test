@@ -1,6 +1,2 @@
 sobre la rama principal
 esto esta hecho
-
-public void algo(){
-    
-}
